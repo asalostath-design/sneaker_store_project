@@ -1,17 +1,32 @@
-# final_project_sneaker_store
+# 👟 Sneaker Store App
 
-A new Flutter project.
+تطبيق محفظة وإدارة متجر أحذية عصرية مبني باستخدام **Flutter** و **Dart**. يتيح للمستخدمين استعراض المنتجات، تصفح الفئات المختلفة، وإضافة المنتجات إلى قائمة المفضلة عبر واجهات تفاعلية وسلسة.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 المميزات (Features)
 
-A few resources to get you started if this is your first Flutter project:
+* **عرض المنتجات وتصفحها:** عرض الأحذية الرياضية مع التفاصيل والأسعار بشكل جاذب.
+* **قائمة المفضلة (Favorites):** حفظ المنتجات المفضلة وتصفحها في شاشة مستقلة.
+* **التصنيف والتصفية:** تصفح الأحذية حسب الماركات العالمية (Nike, Adidas, Jordan, Puma).
+* **تصميم مرن وسلس (Responsive UI):** واجهات متناسقة ومتجاوبة مع مختلف أحجام الشاشات.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ التقنيات المستخدمة (Tech Stack)
+
+* **Framework:** Flutter
+* **Language:** Dart
+* **Architecture:** State Management & Clean Component Structure
+
+---
+
+## 💻 طريقة التشغيل محلياً (Local Setup)
+
+1. **تحميل المشروع:**
+   ```bash
+   git clone [https://github.com/asalostath-design/sneaker_store_project.git](https://github.com/asalostath-design/sneaker_store_project.git)
+
+
+
+
